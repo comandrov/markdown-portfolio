@@ -1,1 +1,4 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*Drinking*
+**Fighting**
+_Fighting_ while *Drinking*
+__Drinking__ *while* **Fighting**
